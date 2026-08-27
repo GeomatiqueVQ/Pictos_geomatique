@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 141.7 141.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: param(fill) #1f1c18;
+		stroke: param(outline) #000;
+		stroke-width: param(outline-width) 0;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.3, SVG Export Plug-In . SVG Version: 1.2.0 Build 164)  -->
+  <g>
+    <g id="Calque_1">
+      <path class="cls-2" fill="param(fill) #1f1c18" d="M3.3,126.5c0,6.5,7.3,11.9,13.7,11.9h109.7c6.5,0,11.7-5.3,11.7-11.9V15.2c0-6.5-5.3-11.9-11.7-11.9H17.1c-6.5,0-13.4,5.6-13.4,12.1l-.3,111.1Z"/>
+      <path class="cls-1" d="M63.8,41.2h3.5c5.1,0,9.5,0,12.6.8,5.5,1.8,6,7.5,6,11.2s-.8,7.2-4,9.7c-5.1,2.8-12.1,2.3-18.1,2.4v-24.1h0ZM63.8,120.1v-37.4c12.1-.4,25.1.8,36.2-3.1,14.6-4.7,18.1-16.4,18.1-26.8s-1.5-15-9-20.9c-9-7.2-26.9-8-39.4-8H31.6v96.2h32.2Z"/>
+    </g>
+  </g>
+</svg>
